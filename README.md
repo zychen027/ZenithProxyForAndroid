@@ -1,0 +1,2 @@
+# ZenithProxyForAndroid
+这是一个用于在Android设备上运行ZenithProxy的脚本
